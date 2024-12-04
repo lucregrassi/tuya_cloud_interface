@@ -5,7 +5,7 @@
 
 ## Prerequisites
 1. Python 3.7 or higher.
-2. A Tuya Cloud Developer account. Register at [Tuya IoT Platform](https://iot.tuya.com/).
+2. A Tuya Cloud Developer account (register at [Tuya IoT Platform](https://iot.tuya.com/)).
 3. A PIR Motion Sensor or other Tuya-supported device linked to the Tuya Smart app (available both for [Android](https://play.google.com/store/apps/details?id=com.tuya.smart&hl=it&pli=1) and [iOS](https://apps.apple.com/it/app/tuya-smart/id1034649547) devices)
 
 ## Setup
