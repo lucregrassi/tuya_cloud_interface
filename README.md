@@ -95,9 +95,9 @@ pip install -r requirements.txt
     ```
 
     The "result" field contains the key information from the PIR motion sensor:
-    - "code": "pir", "value": "pir" indicates that motion has been detected.
-	  - "code": "pir", "value": "none" indicates no motion detected.
-	  - "code": "battery_percentage", "value": 0 reflects the current battery level of the sensor (in this case, 0%).
+  	- "code": "pir", "value": "pir" indicates that motion has been detected.
+  	- "code": "pir", "value": "none" indicates no motion detected.
+  	- "code": "battery_percentage", "value": 0 reflects the current battery level of the sensor (in this case, 0%).
     This output confirms that the sensor is operational and able to detect motion in real-time. The script can now be expanded to process this data in a way that meets your specific requirements.
 
 ## Conclusion 
