@@ -1,3 +1,4 @@
 tuya-iot-py-sdk
-python-dotenv
-colorama
+python-dotenv~=1.0.1
+colorama~=0.4.6
+pyttsx3~=2.98
