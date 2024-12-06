@@ -28,7 +28,7 @@ In your cloud project, authorize the following API services:
 - IoT Core: Provides basic functionalities such as device management, real-time communication, and data collection.
 - Authorization Token Management: Manages authentication and authorization for accessing other APIs.
 - Smart Home Basic Service: Offers essential functionalities for managing smart home devices.
-- Data Status Notification: Sends real-time notifications on device status updates.
+- Device Status Notification: Sends real-time notifications on device status updates.
 - Device Pool Management: Allows obtaining information about devices, including current status and properties.
 
 
