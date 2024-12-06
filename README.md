@@ -6,6 +6,7 @@ This guide explains how to set up and use a PIR Motion Sensor with the Tuya IoT 
 - Python 3.7 or higher.
 - A Tuya Cloud Developer account (register at Tuya IoT Platform).
 - PIR Motion Sensor or other Tuya-supported device linked to the Tuya Smart app (available for Android and iOS).
+- A 2.4GHz Wi-Fi network secured with a WPA2 password.
 
 ## Step 1: Download the Tuya Smart App
 To manage your Tuya-compatible devices, download the Tuya Smart app:
